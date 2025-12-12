@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: aqua;
+}
+
+.question {
+    color: yellowgreen;
+    text-decoration: underline;
+    text-shadow: 30px;
+}
